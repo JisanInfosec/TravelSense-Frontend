@@ -1,5 +1,7 @@
 # TravelSense Web (Next.js)
 
+Backend Repository: The NestJS API for this project can be found here: https://github.com/JisanInfosec/TravelSense_Backend
+
 See the [root README](../README.md) for setup, test accounts and architecture.
 
 ```bash
